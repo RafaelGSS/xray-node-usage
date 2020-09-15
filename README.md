@@ -2,4 +2,4 @@
 
 Dependencies:
 
-- x-ray-daemon
+- xray-daemon
